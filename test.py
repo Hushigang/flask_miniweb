@@ -9,4 +9,7 @@ cd = 55
 
 
 zhangsan = 44
-hh = 5566
+hh = 556
+
+def sun():
+	pass
