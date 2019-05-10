@@ -13,3 +13,6 @@ hh = 556
 
 def sun():
 	pass
+
+
+git = 1000
