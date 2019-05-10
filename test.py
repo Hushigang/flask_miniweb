@@ -16,3 +16,5 @@ def sun():
 
 
 git = 1
+
+temp = 23
