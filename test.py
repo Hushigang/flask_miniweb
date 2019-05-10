@@ -15,4 +15,4 @@ def sun():
 	pass
 
 
-git = 1000
+git = 1
